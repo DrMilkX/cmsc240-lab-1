@@ -63,7 +63,7 @@ Your answer here
 
 ---
 #### Q5. "I want to write 'GO SPIDERS!' on a poster (as a text file) and put it in [dhall](/campus/dhall/) for everyone to see. How do I do that?"
-*(name the poster poster.txt)*
+*(name the file poster.txt)*
 ```
 Your answer here
 ```
@@ -81,8 +81,8 @@ Your answer here
 ```
 
 ---
-#### Q8. "I'm pulling an all-nighter and forgot to have dinner. Can you do me a favor and bring me a lunchbox (as a zip file) from [dhall](/campus/dhall/)? I want apple slices, a cheeseburger, fries, a chocolate chip cookie, and a Monster energy drink please!"
-*(name the file lunchbox.zip and make copies of the food)*
+#### Q8. "I'm pulling an all-nighter and forgot to have dinner. Can you do me a favor and make me a lunchbox (as a zip file) from [dhall](/campus/dhall/)? I want apple slices, a cheeseburger, fries, a chocolate chip cookie, and a Monster energy drink please!"
+*(name the file lunchbox.zip -- don't remove or move the food!)*
 ```
 Your answer here
 ```
@@ -105,7 +105,7 @@ Your answer here
 
 ### Bonus Challenges
 
-#### Q11. "I heard a rumor from an old alumni that there's a ghost in the bell tower of the [library](/campus/library/). I've never even seen the third floor -- there's only two floors! So it must be fake! But if you know a way, can you show me how to get to it??"
+#### Q11. "I heard a rumor from an old alumni that there's a ghost in the third floor of the [library](/campus/library/). I've never even seen the third floor -- there's only two floors! So it must be fake! But if you know a way, can you show me how to get to it??"
 ```
 Your answer here
 ```
